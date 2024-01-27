@@ -10,3 +10,10 @@ the chart section to selected the stocks.
 5. Details section:The details section display the stock name, profit and bookValue along with its summary
 provided through the API.
 6. Used plain JavaScript and CSS to plot the graph like Ploty.js, D3.js, ChartjS.
+
+# Skills
+1. JavaScript
+2. DOM Manipulation
+3. ES6 Concept
+4. HTML
+5. CSS
